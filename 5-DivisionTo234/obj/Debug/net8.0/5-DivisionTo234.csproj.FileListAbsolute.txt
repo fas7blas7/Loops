@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\bin\Debug\net8.0\5-DivisionTo234.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\bin\Debug\net8.0\5-DivisionTo234.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\bin\Debug\net8.0\5-DivisionTo234.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\bin\Debug\net8.0\5-DivisionTo234.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\bin\Debug\net8.0\5-DivisionTo234.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\obj\Debug\net8.0\5-DivisionTo234.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\obj\Debug\net8.0\5-DivisionTo234.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\obj\Debug\net8.0\5-DivisionTo234.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\obj\Debug\net8.0\5-DivisionTo234.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\obj\Debug\net8.0\5-DivisionTo234.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\obj\Debug\net8.0\refint\5-DivisionTo234.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\obj\Debug\net8.0\5-DivisionTo234.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\obj\Debug\net8.0\5-DivisionTo234.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\5-DivisionTo234\obj\Debug\net8.0\ref\5-DivisionTo234.dll
