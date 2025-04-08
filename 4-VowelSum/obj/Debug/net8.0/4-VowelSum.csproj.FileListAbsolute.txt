@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\bin\Debug\net8.0\4-VowelSum.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\bin\Debug\net8.0\4-VowelSum.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\bin\Debug\net8.0\4-VowelSum.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\bin\Debug\net8.0\4-VowelSum.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\bin\Debug\net8.0\4-VowelSum.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\obj\Debug\net8.0\4-VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\obj\Debug\net8.0\4-VowelSum.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\obj\Debug\net8.0\4-VowelSum.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\obj\Debug\net8.0\4-VowelSum.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\obj\Debug\net8.0\4-VowelSum.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\obj\Debug\net8.0\refint\4-VowelSum.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\obj\Debug\net8.0\4-VowelSum.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\obj\Debug\net8.0\4-VowelSum.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\4-VowelSum\obj\Debug\net8.0\ref\4-VowelSum.dll
