@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\bin\Debug\net8.0\1-PowerOfNumber.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\bin\Debug\net8.0\1-PowerOfNumber.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\bin\Debug\net8.0\1-PowerOfNumber.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\bin\Debug\net8.0\1-PowerOfNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\bin\Debug\net8.0\1-PowerOfNumber.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\obj\Debug\net8.0\1-PowerOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\obj\Debug\net8.0\1-PowerOfNumber.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\obj\Debug\net8.0\1-PowerOfNumber.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\obj\Debug\net8.0\1-PowerOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\obj\Debug\net8.0\1-PowerOfNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\obj\Debug\net8.0\refint\1-PowerOfNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\obj\Debug\net8.0\1-PowerOfNumber.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\obj\Debug\net8.0\1-PowerOfNumber.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\1-PowerOfNumber\obj\Debug\net8.0\ref\1-PowerOfNumber.dll

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C47FD06-10A3-4276-AA3F-8470C057A964}|7-SpecialBonus\\7-SpecialBonus.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\loops-exercise\\7-specialbonus\\specialbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C47FD06-10A3-4276-AA3F-8470C057A964}|7-SpecialBonus\\7-SpecialBonus.csproj|solutionrelative:7-specialbonus\\specialbonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB8EF89-3EC4-4697-9604-C9E907A32D65}|8-AccountBalance\\8-AccountBalance.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\loops-exercise\\8-accountbalance\\accountbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB8EF89-3EC4-4697-9604-C9E907A32D65}|8-AccountBalance\\8-AccountBalance.csproj|solutionrelative:8-accountbalance\\accountbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29085829-AFEA-4BBC-9B03-00D2E2361C57}|6-SpecialNumbers\\6-SpecialNumbers.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\loops-exercise\\6-specialnumbers\\specialnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29085829-AFEA-4BBC-9B03-00D2E2361C57}|6-SpecialNumbers\\6-SpecialNumbers.csproj|solutionrelative:6-specialnumbers\\specialnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7513C673-6459-4250-8320-89568D2AFF14}|5-DivisionTo234\\5-DivisionTo234.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\loops-exercise\\5-divisionto234\\divisionto234.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7513C673-6459-4250-8320-89568D2AFF14}|5-DivisionTo234\\5-DivisionTo234.csproj|solutionrelative:5-divisionto234\\divisionto234.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9483D1-4AC3-4D6F-A3B3-A2716FDAD070}|4-VowelSum\\4-VowelSum.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\loops-exercise\\4-vowelsum\\vowelsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9483D1-4AC3-4D6F-A3B3-A2716FDAD070}|4-VowelSum\\4-VowelSum.csproj|solutionrelative:4-vowelsum\\vowelsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26810196-7737-4BBD-8806-3AF6EF93DB53}|3-BiggestNumber\\3-BiggestNumber.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\loops-exercise\\3-biggestnumber\\biggestnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26810196-7737-4BBD-8806-3AF6EF93DB53}|3-BiggestNumber\\3-BiggestNumber.csproj|solutionrelative:3-biggestnumber\\biggestnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB315C1-0982-4FAC-AEA7-B56E2CE21D80}|2-MultiplicationTable\\2-MultiplicationTable.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\loops-exercise\\2-multiplicationtable\\multiplicationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB315C1-0982-4FAC-AEA7-B56E2CE21D80}|2-MultiplicationTable\\2-MultiplicationTable.csproj|solutionrelative:2-multiplicationtable\\multiplicationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A82F25-20C7-4A47-B2DA-DC75BB562330}|1-PowerOfNumber\\1-PowerOfNumber.csproj|c:\\users\\skyli\\desktop\\programming fundamentals and unit testing - january 2025\\11-loops\\loops-exercise\\1-powerofnumber\\powerofnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A82F25-20C7-4A47-B2DA-DC75BB562330}|1-PowerOfNumber\\1-PowerOfNumber.csproj|solutionrelative:1-powerofnumber\\powerofnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpecialBonus.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\7-SpecialBonus\\SpecialBonus.cs",
+              "RelativeDocumentMoniker": "7-SpecialBonus\\SpecialBonus.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\7-SpecialBonus\\SpecialBonus.cs",
+              "RelativeToolTip": "7-SpecialBonus\\SpecialBonus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:32:48.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountBalance.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\8-AccountBalance\\AccountBalance.cs",
+              "RelativeDocumentMoniker": "8-AccountBalance\\AccountBalance.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\8-AccountBalance\\AccountBalance.cs",
+              "RelativeToolTip": "8-AccountBalance\\AccountBalance.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:31:30.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpecialNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\6-SpecialNumbers\\SpecialNumbers.cs",
+              "RelativeDocumentMoniker": "6-SpecialNumbers\\SpecialNumbers.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\6-SpecialNumbers\\SpecialNumbers.cs",
+              "RelativeToolTip": "6-SpecialNumbers\\SpecialNumbers.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:20:30.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DivisionTo234.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\5-DivisionTo234\\DivisionTo234.cs",
+              "RelativeDocumentMoniker": "5-DivisionTo234\\DivisionTo234.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\5-DivisionTo234\\DivisionTo234.cs",
+              "RelativeToolTip": "5-DivisionTo234\\DivisionTo234.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:19:16.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VowelSum.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\4-VowelSum\\VowelSum.cs",
+              "RelativeDocumentMoniker": "4-VowelSum\\VowelSum.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\4-VowelSum\\VowelSum.cs",
+              "RelativeToolTip": "4-VowelSum\\VowelSum.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:12:29.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BiggestNumber.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\3-BiggestNumber\\BiggestNumber.cs",
+              "RelativeDocumentMoniker": "3-BiggestNumber\\BiggestNumber.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\3-BiggestNumber\\BiggestNumber.cs",
+              "RelativeToolTip": "3-BiggestNumber\\BiggestNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:59:38.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MultiplicationTable.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\2-MultiplicationTable\\MultiplicationTable.cs",
+              "RelativeDocumentMoniker": "2-MultiplicationTable\\MultiplicationTable.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\2-MultiplicationTable\\MultiplicationTable.cs",
+              "RelativeToolTip": "2-MultiplicationTable\\MultiplicationTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:50:14.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PowerOfNumber.cs",
+              "DocumentMoniker": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\1-PowerOfNumber\\PowerOfNumber.cs",
+              "RelativeDocumentMoniker": "1-PowerOfNumber\\PowerOfNumber.cs",
+              "ToolTip": "C:\\Users\\skyli\\Desktop\\Programming Fundamentals and Unit Testing - January 2025\\11-LOOPS\\LOOPS-EXERCISE\\1-PowerOfNumber\\PowerOfNumber.cs",
+              "RelativeToolTip": "1-PowerOfNumber\\PowerOfNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:17:28.511Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
