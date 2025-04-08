@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\bin\Debug\net8.0\3-BiggestNumber.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\bin\Debug\net8.0\3-BiggestNumber.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\bin\Debug\net8.0\3-BiggestNumber.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\bin\Debug\net8.0\3-BiggestNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\bin\Debug\net8.0\3-BiggestNumber.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\obj\Debug\net8.0\3-BiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\obj\Debug\net8.0\3-BiggestNumber.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\obj\Debug\net8.0\3-BiggestNumber.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\obj\Debug\net8.0\3-BiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\obj\Debug\net8.0\3-BiggestNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\obj\Debug\net8.0\refint\3-BiggestNumber.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\obj\Debug\net8.0\3-BiggestNumber.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\obj\Debug\net8.0\3-BiggestNumber.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\3-BiggestNumber\obj\Debug\net8.0\ref\3-BiggestNumber.dll
