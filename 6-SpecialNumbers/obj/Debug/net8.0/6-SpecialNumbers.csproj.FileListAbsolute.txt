@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\bin\Debug\net8.0\6-SpecialNumbers.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\bin\Debug\net8.0\6-SpecialNumbers.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\bin\Debug\net8.0\6-SpecialNumbers.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\bin\Debug\net8.0\6-SpecialNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\bin\Debug\net8.0\6-SpecialNumbers.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\obj\Debug\net8.0\6-SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\obj\Debug\net8.0\6-SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\obj\Debug\net8.0\6-SpecialNumbers.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\obj\Debug\net8.0\6-SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\obj\Debug\net8.0\6-SpecialNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\obj\Debug\net8.0\refint\6-SpecialNumbers.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\obj\Debug\net8.0\6-SpecialNumbers.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\obj\Debug\net8.0\6-SpecialNumbers.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\6-SpecialNumbers\obj\Debug\net8.0\ref\6-SpecialNumbers.dll
