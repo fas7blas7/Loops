@@ -19,6 +19,10 @@ This repository focuses on C# tasks that use `for` loops and conditionals. Each 
 │    ├—— VowelSum.cs  
 │—— /Task5_DivisionTo234  
 │    ├—— DivisionTo234.cs  
+│—— /Task6_SpecialNumbers  
+│    ├—— SpecialNumbers.cs  
+│—— /Task7_SpecialBonus  
+│    ├—— SpecialBonus.cs  
 │—— README.md  
 
 🛠️ Setup & Usage
@@ -34,16 +38,18 @@ This repository focuses on C# tasks that use `for` loops and conditionals. Each 
 cd Task1_PowerOfNumber
 dotnet build
 dotnet run
+```
 
 📌 Task List
 
-1️⃣ Power of Number 🧮
-Namespace: _1_PowerOfNumber
-📌 Description:
+1️⃣ Power of Number 🧮  
+Namespace: _1_PowerOfNumber  
+📌 Description:  
 Reads two integers and calculates the result of the first raised to the power of the second using a for loop.
 
 📝 Code:
 
+```csharp
 int number = int.Parse(Console.ReadLine());
 int power = int.Parse(Console.ReadLine());
 
@@ -53,28 +59,32 @@ for (int i = 0; i < power; i++)
     result *= number;
 }
 Console.WriteLine(result);
+```
 
-2️⃣ Multiplication Table ✖️
-Namespace: _2_MultiplicationTable
-📌 Description:
+2️⃣ Multiplication Table ✖️  
+Namespace: _2_MultiplicationTable  
+📌 Description:  
 Prints the multiplication table for a given number from 1 to 10.
 
 📝 Code:
 
+```csharp
 int number = int.Parse(Console.ReadLine());
 
 for (int i = 1; i <= 10; i++)
 {
     Console.WriteLine($"{number} x {i} = {number * i}");
 }
+```
 
-3️⃣ Biggest Number 🏆
-Namespace: _3_BiggestNumber
-📌 Description:
+3️⃣ Biggest Number 🏆  
+Namespace: _3_BiggestNumber  
+📌 Description:  
 Reads n integers and prints the largest one.
 
 📝 Code:
 
+```csharp
 namespace _3_BiggestNumber
 {
     internal class BiggestNumber
@@ -96,14 +106,16 @@ namespace _3_BiggestNumber
         }
     }
 }
+```
 
-4️⃣ Vowel Sum 🔤
-Namespace: _4_VowelSum
-📌 Description:
+4️⃣ Vowel Sum 🔤  
+Namespace: _4_VowelSum  
+📌 Description:  
 Reads a sequence of characters and calculates a vowel score where each vowel contributes a specific value.
 
 📝 Code:
 
+```csharp
 namespace _4_VowelSum
 {
     internal class VowelSum
@@ -126,14 +138,16 @@ namespace _4_VowelSum
         }
     }
 }
+```
 
-5️⃣ Division to 2, 3, and 4 ➗
-Namespace: _5_DivisionTo234
-📌 Description:
+5️⃣ Division to 2, 3, and 4 ➗  
+Namespace: _5_DivisionTo234  
+📌 Description:  
 Reads n numbers and calculates the percentage divisible by 2, 3, and 4.
 
 📝 Code:
 
+```csharp
 namespace _5_DivisionTo234
 {
     internal class DivisionTo234
@@ -159,18 +173,93 @@ namespace _5_DivisionTo234
         }
     }
 }
+```
+
+6️⃣ Special Numbers 🔢  
+Namespace: _6_SpecialNumbers  
+📌 Description:  
+Reads an integer and checks if it is a "special" number, meaning all its digits divide it evenly.
+
+📝 Code:
+
+```csharp
+namespace _6_SpecialNumbers
+{
+    internal class SpecialNumbers
+    {
+        static void Main(string[] args)
+        {
+            int number = int.Parse(Console.ReadLine());
+            bool isSpecial = true;
+            int copyOfNumber = number;
+
+            while (number > 0)
+            {
+                int lastDigit = number % 10;
+                if (copyOfNumber % lastDigit != 0)
+                {
+                    isSpecial = false;
+                    Console.WriteLine($"{copyOfNumber} is not special");
+                    break;
+                }
+
+                number /= 10;
+            }
+
+            if (isSpecial)
+            {
+                Console.WriteLine($"{copyOfNumber} is special");
+            }
+        }
+    }
+}
+```
+
+7️⃣ Special Bonus 🎁  
+Namespace: _07.SpecialBonus  
+📌 Description:  
+Continuously reads numbers until a stop number is encountered, then prints the last entered number (before the stop) multiplied by 1.2.
+
+📝 Code:
+
+```csharp
+namespace _07.SpecialBonus
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int stopNumber = int.Parse(Console.ReadLine());
+
+            int previousNumber = 0;
+            while (true)
+            {
+                int currentNumber = int.Parse(Console.ReadLine());
+                if (currentNumber == stopNumber)
+                {
+                    break;
+                }
+
+                previousNumber = currentNumber;
+            }
+
+            Console.WriteLine(previousNumber * 1.2);
+        }
+    }
+}
+```
 
 🎯 Commit Progress Tracker
 
-🚀 Goal: 500 commits in 2025
-📅 Current Progress: 357 commits
+🚀 Goal: 500 commits in 2025  
+📅 Current Progress: 360 commits
 
 📊 Progress Bar:
 
-██████████████████████▒▒ 71.4% (357/500)
+███████████████████████▒▒ 72.0% (360/500)
 
-📌 Milestones: ✅ 100 commits
-✅ 200 commits
-✅ 300 commits
-🔲 400 commits
+📌 Milestones: ✅ 100 commits  
+✅ 200 commits  
+✅ 300 commits  
+🔲 400 commits  
 🔲 500 commits (🎉)
