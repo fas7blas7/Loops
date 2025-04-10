@@ -249,17 +249,52 @@ namespace _07.SpecialBonus
 }
 ```
 
+8️⃣ Account Balance 💰Namespace: _08.AccountBalance
+📌 Description:
+Reads deposits and withdrawals until "End" is received, tracking and printing the balance with labeled output for each operation.
+
+📝 Code:
+
+```csharp
+namespace _08.AccountBalance
+{
+    internal class AccountBalance
+    {
+        static void Main(string[] args)
+        {
+            double balance = 0;
+            string line; //                                
+            while ((line = Console.ReadLine()) != "End")            
+            {                
+                double moneyAmount = double.Parse(line);
+                balance += moneyAmount;
+                if (moneyAmount >= 0)
+                {
+                    Console.WriteLine($"Increase: {moneyAmount:F2}");
+                }
+                else
+                {
+                    Console.WriteLine($"Decrease: {Math.Abs(moneyAmount):F2}");
+                }
+            }
+
+            Console.WriteLine($"Balance: {balance:F2}");
+        }
+    }
+}
+
+And here’s the updated commit progress section:
+
+📅 Current Progress: 362 commits
+📊 Progress Bar:
+████████████████████████▒ 72.4% (362/500)
+
+📌 Milestones: ✅ 100 commits
+✅ 200 commits
+✅ 300 commits
+🔲 400 commits
+🔲 500 commits (🎉)
 🎯 Commit Progress Tracker
 
 🚀 Goal: 500 commits in 2025  
-📅 Current Progress: 360 commits
-
-📊 Progress Bar:
-
-███████████████████████▒▒ 72.0% (360/500)
-
-📌 Milestones: ✅ 100 commits  
-✅ 200 commits  
-✅ 300 commits  
-🔲 400 commits  
-🔲 500 commits (🎉)
+📅 Current Progress: 362 commits
