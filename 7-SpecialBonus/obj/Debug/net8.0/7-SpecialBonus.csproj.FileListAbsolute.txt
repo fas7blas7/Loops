@@ -12,3 +12,18 @@ C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\
 C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\obj\Debug\net8.0\7-SpecialBonus.pdb
 C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\obj\Debug\net8.0\7-SpecialBonus.genruntimeconfig.cache
 C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\obj\Debug\net8.0\ref\7-SpecialBonus.dll
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\bin\Debug\net8.0\7-SpecialBonus.exe
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\bin\Debug\net8.0\7-SpecialBonus.deps.json
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\bin\Debug\net8.0\7-SpecialBonus.runtimeconfig.json
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\bin\Debug\net8.0\7-SpecialBonus.dll
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\bin\Debug\net8.0\7-SpecialBonus.pdb
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\obj\Debug\net8.0\7-SpecialBonus.GeneratedMSBuildEditorConfig.editorconfig
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\obj\Debug\net8.0\7-SpecialBonus.AssemblyInfoInputs.cache
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\obj\Debug\net8.0\7-SpecialBonus.AssemblyInfo.cs
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\obj\Debug\net8.0\7-SpecialBonus.csproj.CoreCompileInputs.cache
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\obj\Debug\net8.0\7-SpecialBonus.sourcelink.json
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\obj\Debug\net8.0\7-SpecialBonus.dll
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\obj\Debug\net8.0\refint\7-SpecialBonus.dll
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\obj\Debug\net8.0\7-SpecialBonus.pdb
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\obj\Debug\net8.0\7-SpecialBonus.genruntimeconfig.cache
+D:\USB Drive Martin\QA\Programming Fundamentals and Unit Testing - January 2025\11-LOOPS\LOOPS-EXERCISE\7-SpecialBonus\obj\Debug\net8.0\ref\7-SpecialBonus.dll
