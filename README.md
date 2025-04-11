@@ -283,8 +283,6 @@ namespace _08.AccountBalance
     }
 }
 
-And here’s the updated commit progress section:
-
 📅 Current Progress: 362 commits
 📊 Progress Bar:
 ████████████████████████▒ 72.4% (362/500)
